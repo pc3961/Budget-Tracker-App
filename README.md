@@ -8,13 +8,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/1.JPG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/1.JPG" alt="project-screenshot" width="1280" height="640/">
 
-<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/2.JPG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/2.JPG" alt="project-screenshot" width="1280" height="640/">
 
-<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/3.JPG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/3.JPG" alt="project-screenshot" width="1280" height="640/">
 
-<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/4.JPG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/4.JPG" alt="project-screenshot" width="1280" height="640/">
 
   
   
