@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Budget Tracker</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/pc3961/Budget-Tracker-Web-App/image?font=Inter&amp;language=1&amp;logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Freact-icon-512x456-liq40yrp.png&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">The Budget Tracker project is a simple and efficient tool designed to help individuals manage their finances effectively. Whether you're looking to track your monthly expenses save for a specific goal or simply gain a better understanding of your spending habits this budget tracker provides a user-friendly interface and essential features to support your financial journey.</p>
 
-In the project directory, you can run:
+<p align="center"><img src="https://img.shields.io/badge/build-finished-green" alt="shields"></p>
 
-### `npm start`
+<h2>Project Screenshots:</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/1.JPG" alt="project-screenshot" width="400" height="400/">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/2.JPG" alt="project-screenshot" width="400" height="400/">
 
-### `npm test`
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/3.JPG" alt="project-screenshot" width="400" height="400/">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://github.com/pc3961/Budget-Tracker-Web-App/blob/main/Screenshots/4.JPG" alt="project-screenshot" width="400" height="400/">
 
-### `npm run build`
+  
+  
+<h2>🧐 Features</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here're some of the project's best features:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*   Expense Tracking
+*   Budget Planning
+*   User-Friendly
+*   Income Management
+*   Visual Reports
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>🛠️ Installation Steps:</h2>
 
-### `npm run eject`
+<p>1. Open the project directory</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>2. Open a new terminal</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>3. Install the dependancies</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p>4. Run the project</p>
 
-## Learn More
+```
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  
+  
+<h2>💻 Built with</h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Technologies used in the project:
 
-### Code Splitting
+*   HTML
+*   CSS
+*   Javascript
+*   ReactJS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h2>🛡️ License:</h2>
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the Pranav Chavan
